@@ -43,8 +43,8 @@ export const initialData: PortfolioData = {
     name: "José Ricardo Casdelo Navarro",
     dob: "01/12/1999",
     nationality: "Cubana",
-    location: "España (Domicilio)",
-    profile: "Ayudante de instalador fotovoltaico con experiencia en obra y formación técnica en electrónica y electricidad. Experiencia en montaje básico de paneles, apoyo en instalaciones en techos de placa y estructuras en suelo. Perfil responsable, con alta capacidad de aprendizaje y disponibilidad para incorporación en marzo de 2026 en Sevilla."
+    location: "España",
+    profile: "Profesional técnico con sólida formación en Ingeniería de Telecomunicaciones y Electrónica. Experiencia práctica en instalaciones de energía renovable, mantenimiento de equipos electrónicos y docencia universitaria. Especializado en soluciones técnicas, diagnóstico de equipos y educación técnica. Responsable, con fuerte capacidad de aprendizaje, trabajo en equipo y disponibilidad para nuevos desafíos profesionales."
   },
   education: [
     {
